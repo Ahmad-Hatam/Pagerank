@@ -17,6 +17,14 @@ Usage:
 2. Build the project using make.
 3. Run the PageRank computation on your graph data.
 
+Running on WSL:
+1. Ensure you have WSL installed and set up on your Windows machine.
+2. Open a WSL terminal.
+3. Navigate to the project directory.
+4. Build the project using make.
+5. Run tests from the WSL terminal for a smooth experience.
+
+
 Goals:
 1. Understand and implement the core concepts of the PageRank algorithm.
 2. Provide a reliable and efficient tool for academic and educational purposes.
